@@ -1,0 +1,3 @@
+rootProject.name = 'archery_helper_4429'
+
+include ':app'
